@@ -17,8 +17,13 @@ Result for 00000000-0000-0000-0000-000000000001: FAIL
 1. В группе валидных ключей, следующие ключии считаются невалидными (результат проверки Fail):
 * 80b427f8-92cd-3aae-ba04-3927fbe17c
 * 387eedc6-12e9-3b32-9881-63b6b5e85317
+
+[Issue #1](https://github.com/AndreyShitikoff/KeyValidator/issues/1)
+
 2. В группе невалидных ключей, следующие ключи считаются валидными (результат проверки OK):
 * 2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1
+
+[Issue #2](https://github.com/AndreyShitikoff/KeyValidator/issues/2)
 
 **Описание процесса тестирования**
 
